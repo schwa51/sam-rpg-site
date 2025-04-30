@@ -1,0 +1,30 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #fdfaf4;
+  color: #2c2c2c;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+}
+h1, h2 {
+  color: #3e2f1c;
+  border-bottom: 1px solid #decfb0;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+a {
+  color: #7c4f19;
+  text-decoration: none;
+  border-bottom: 1px dotted #7c4f19;
+}
+a:hover {
+  color: #ad7436;
+  border-bottom: 1px solid #ad7436;
+}
+footer {
+  margin-top: 3rem;
+  font-size: 0.8rem;
+  text-align: center;
+  color: #888;
+}
